@@ -1,0 +1,35 @@
+body{background:rgb(255,251,204);}
+.a{height:100px;
+	width:100%;
+	background:white;
+	margin-bottom:2px;
+    }
+.b div{display:inline-block;
+	font-size: 1vw;
+	}
+.b a{color:grey;
+	text-decoration:none;
+	}
+.b{width:100%;}
+.b1{background-color:white;
+	border-radius:0 0 0 25px;
+	text-align:center;
+	padding:12px 0 12px 0;
+	width:33.2%;
+	margin-right: 0.2%;
+	float:left;
+}
+.b2{
+	background-color:white;
+	text-align:center;
+	padding:12px 0 12px 0;
+	width:33.2%;
+}
+.b3{
+	background-color:white;
+	border-radius:0 0 25px 0;
+	text-align:center;
+	padding:12px 0 12px 0;
+	width:33.2%;
+	float:right;
+}
