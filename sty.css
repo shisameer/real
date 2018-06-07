@@ -33,3 +33,7 @@ body{background:rgb(255,251,204);}
 	width:33.2%;
 	float:right;
 }
+.b a div:hover{
+	background-color: #ffb300;
+	color: rgb(0,148,160);
+}
